@@ -86,3 +86,9 @@ Under the following terms:
 
 - **Attribution** — You must give appropriate credit (e.g., to "Nono") and indicate if changes were made.  
 - **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+---
+
+## Credits & Acknowledgements
+
+This document was conceptualized and authored by Nono (2025).  
+The structure, editing, and English translation were supported by ChatGPT (OpenAI), based on the author's original ideas and philosophy.
